@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Somak Unreal Engine Game Projects\\AmazonCityChase\\Source\\AmazonCityChase\\AmazonCityChase.Build.cs",
+		"D:\\Somak Unreal Engine Game Projects\\AmazonCityChase\\Source\\AmazonCityChase.Target.cs",
+		"D:\\Somak Unreal Engine Game Projects\\AmazonCityChase\\Source\\AmazonCityChaseEditor.Target.cs"
+	],
+	"EngineVersion": "4.26.2"
+}

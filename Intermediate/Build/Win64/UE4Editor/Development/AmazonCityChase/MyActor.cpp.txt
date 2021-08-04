@@ -1,0 +1,3 @@
+D:\Somak Unreal Engine Game Projects\AmazonCityChase\Intermediate\Build\Win64\UE4Editor\Development\AmazonCityChase\Definitions.AmazonCityChase.h
+D:\Somak Unreal Engine Game Projects\AmazonCityChase\Source\AmazonCityChase\MyActor.h
+D:\Somak Unreal Engine Game Projects\AmazonCityChase\Intermediate\Build\Win64\UE4Editor\Inc\AmazonCityChase\MyActor.generated.h

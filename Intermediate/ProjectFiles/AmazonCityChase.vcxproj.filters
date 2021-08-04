@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\AmazonCityChase.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{31B74FB1-D70A-4185-8EAB-C7009D29B801}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AmazonCityChase.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\AmazonCityChaseEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\AmazonCityChase.png" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{667D0BBA-EFBC-4ED2-A259-3C3044BA635F}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\AmazonCityChase">
+      <UniqueIdentifier>{31C75302-1E00-4A26-8027-991778700200}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\AmazonCityChase\AmazonCityChase.Build.cs">
+      <Filter>Source\AmazonCityChase</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\AmazonCityChase\AmazonCityChase.cpp">
+      <Filter>Source\AmazonCityChase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AmazonCityChase\AmazonCityChase.h">
+      <Filter>Source\AmazonCityChase</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\AmazonCityChase\MyActor.cpp">
+      <Filter>Source\AmazonCityChase</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\AmazonCityChase\MyActor.h">
+      <Filter>Source\AmazonCityChase</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

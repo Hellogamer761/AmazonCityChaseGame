@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-AmazonCityChase.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Somak Unreal Engine Game Projects\AmazonCityChase\Intermediate\Build\Win64\AmazonCityChaseEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Somak Unreal Engine Game Projects\AmazonCityChase\Intermediate\Build\Win64\UE4Editor\Development\AmazonCityChase\AmazonCityChase.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\AmazonCityChase\Intermediate\Build\Win64\UE4Editor\Development\AmazonCityChase\MyActor.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\AmazonCityChase\Intermediate\Build\Win64\UE4Editor\Development\AmazonCityChase\AmazonCityChase.init.gen.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\AmazonCityChase\Intermediate\Build\Win64\UE4Editor\Development\AmazonCityChase\MyActor.gen.cpp.obj"
+"D:\Somak Unreal Engine Game Projects\AmazonCityChase\Intermediate\Build\Win64\UE4Editor\Development\AmazonCityChase\Default.rc2.res"
+/OUT:"D:\Somak Unreal Engine Game Projects\AmazonCityChase\Intermediate\Build\Win64\UE4Editor\Development\AmazonCityChase\UE4Editor-AmazonCityChase.lib"
+/INCLUDE:IMPLEMENT_MODULE_AmazonCityChase

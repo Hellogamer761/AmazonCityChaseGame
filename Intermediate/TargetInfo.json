@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AmazonCityChase",
+			"Path": "D:\\Somak Unreal Engine Game Projects\\AmazonCityChase\\Source\\AmazonCityChase.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AmazonCityChaseEditor",
+			"Path": "D:\\Somak Unreal Engine Game Projects\\AmazonCityChase\\Source\\AmazonCityChaseEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
